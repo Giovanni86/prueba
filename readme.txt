@@ -12,5 +12,7 @@ git remote add origin https://github.com/Giovanni86/prueba.git
 git push -u origin master
 
 Prueba de jklde
- giovanni borda
- jujujuju
+giovanni borda
+jujujuju
+
+
